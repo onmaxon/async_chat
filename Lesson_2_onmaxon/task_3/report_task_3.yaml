@@ -1,0 +1,9 @@
+item:
+- book
+- ruler
+- блокнот
+quantity: 10
+price:
+  book: 7€ - 12€
+  ruler: 4€ - 5€
+  блокнот: 11€ - 15€
